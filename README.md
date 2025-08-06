@@ -89,8 +89,4 @@ Edit
 
 ---
 
-Let me know if you'd like to customize this README for a specific project or use case!
 
-
-
-Ask ChatGPT
